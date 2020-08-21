@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106873" started-at="2020-08-20T16:49:35 EDT" finished-at="2020-08-20T16:51:22 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106873" started-at="2020-08-20T16:49:35 EDT" finished-at="2020-08-20T16:51:22 EDT">
+      <class name="Project.Expedia2.FlightBooking">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Project.Expedia2.FlightBooking@68bbe345]" name="beforeTest" is-config="true" duration-ms="4822" started-at="2020-08-20T16:49:35 EDT" finished-at="2020-08-20T16:49:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Project.Expedia2.FlightBooking@68bbe345]" name="f" duration-ms="102020" started-at="2020-08-20T16:49:40 EDT" finished-at="2020-08-20T16:51:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Project.Expedia2.FlightBooking@68bbe345]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-08-20T16:51:22 EDT" finished-at="2020-08-20T16:51:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Project.Expedia2.FlightBooking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
